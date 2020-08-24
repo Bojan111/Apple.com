@@ -1,0 +1,35 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "2.3GHz Dual-Core Processor with Turbo Boost up to 3.6GHz 256GB Storage",
+          "price": 1099.00,
+          "paragraph": "2.3GHz dual-core 7th-generation Intel Core i5 processor Turbo Boost up to 3.6GHz 8GB 2133MHz memory, configurable to 16GB 256GB SSD storage¹ Intel Iris Plus Graphics 640 Two Thunderbolt 3 ports 1920-by-1080 sRGB display",
+          "paragr2": "Apple Trade In Get credit toward a new Mac when you trade in your eligible computer. Or recycle it for free.*",
+          "image": { "fields": { "file": { "url": "./images/imac-215-selection-hero-201706.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "3.6GHz Quad-Core Processor 256GB Storage Retina 4K Display",
+          "price": 1299.00,
+          "paragraph": "3.6GHz quad-core 8th-generation Intel Core i3 processor 8GB 2400MHz DDR4 memory, configurable up to 32GB 256GB SSD storage¹ Retina 4K 4096-by-2304 P3 display",
+          "paragr2": "Apple Trade In Get credit toward a new Mac when you trade in your eligible computer. Or recycle it for free.*",
+          "image": { "fields": { "file": { "url": "./images/imac-21-retina-selection-hero-201903.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "3.0GHz 6-Core Processor with Turbo Boost up to 4.1GHz 256GB Storage Retina 4K Display",
+          "price": 1499.00,
+          "paragraph": "3.0GHz 6-core 8th-generation Intel Core i5 processor Turbo Boost up to 4.1GHz, 8GB 2666MHz DDR4 memory, configurable up to 32GB Radeon Pro 560X with 4GB of GDDR5 memory",
+          "paragr2": "Apple Trade In Get credit toward a new Mac when you trade in your eligible computer. Or recycle it for free.*",
+          "image": { "fields": { "file": { "url": "./images/imac-27-selection-hero-202008.jpg" } } }
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,33 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "1.1GHz Dual-Core Core i3 Processor with Turbo Boost up to 3.2GHz 256GB Storage Touch ID",
+          "price": 1099.00,
+          "paragraph": "2.3GHz dual-core 7th-generation Intel Core i5 processor Turbo Boost up to 3.6GHz 8GB 2133MHz memory, configurable to 16GB 256GB SSD storage¹ Intel Iris Plus Graphics 640 Two Thunderbolt 3 ports 1920-by-1080 sRGB display",
+          "paragr2": "Apple Trade In Get credit toward a new Mac when you trade in your eligible computer. Or recycle it for free.*",
+          "image": { "fields": { "file": { "url": "./images/macbook-air-space-gray-select-201810.jpg" } } },
+          "image1": {"url": "./images/macbook-air-space-gray-select-201810_SW_COLOR.jpg"},
+          "image2": {"url": "./images/macbook-air-gold-select-201810_SW_COLOR.jpg"},
+          "image3": {"url": "./images/macbook-air-silver-select-201810_SW_COLOR.jpg"}
+         
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "3.6GHz Quad-Core Processor 256GB Storage Retina 4K Display",
+          "price": 1299.00,
+          "paragraph": "3.6GHz quad-core 8th-generation Intel Core i3 processor 8GB 2400MHz DDR4 memory, configurable up to 32GB 256GB SSD storage¹ Retina 4K 4096-by-2304 P3 display",
+          "paragr2": "Apple Trade In Get credit toward a new Mac when you trade in your eligible computer. Or recycle it for free.*",
+          "image": { "fields": { "file": { "url": "./images/macbook-air-space-gray-select-201810.jpg" } } },
+          "image1": {"url": "./images/macbook-air-space-gray-select-201810_SW_COLOR.jpg"},
+          "image2": {"url": "./images/macbook-air-gold-select-201810_SW_COLOR.jpg"},
+          "image3": {"url": "./images/macbook-air-silver-select-201810_SW_COLOR.jpg"}
+        
+        }
+      }
+    ]
+  }
+  
